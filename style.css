@@ -1,0 +1,99 @@
+html{
+  scroll-behavior: smooth;
+}
+
+
+.nav-link {
+  color: #292826;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  color: #f9d142;
+  background-color: #292826;
+
+  @font-face {
+    font-family: fontbutler;
+    src: url ('Butler_ExtraBold.otf');
+  }
+  h4 {
+    font-family: fontbutler;
+  }
+}
+
+
+#navbar{
+  background-color: #f9d142;
+
+  @font-face {
+    font-family: fontbutler;
+    src: url ('Butler_ExtraBold.otf');
+  }
+  h4 {
+    font-family: fontbutler;
+  }
+}
+
+#about {
+  color: #292826;
+  background-color: #f9dd76;
+
+  @font-face {
+    font-family: fontbutler;
+    src: url ('Butler_ExtraBold.otf');
+  }
+  h2 {
+    font-family: fontbutler;
+  }
+}
+
+#galery {
+  color: #f9d142;
+  background-color: #292826;
+
+  @font-face {
+    font-family: fontbutler;
+    src: url ('Butler_ExtraBold.otf');
+  }
+  h2 {
+    font-family: fontbutler;
+  }
+}
+
+
+#contact {
+  color: #292826;
+  background-color: #f9dd76;
+
+  @font-face {
+    font-family: fontbutler;
+    src: url ('Butler_ExtraBold.otf');
+  }
+  h2 {
+    font-family: fontbutler;
+  }
+}
+
+#home{
+  color: #f9d142;
+  background-color: #292826;
+
+}
+
+.footbar {
+  color: #fff;
+  background-color: #292826;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.btn-kirim {
+  color: #f9d142;
+  background-color: #292826;
+}
+.btn-loading {
+  color: #f9d142;
+  background-color: #292826;
+}
